@@ -20,7 +20,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.revature.models.Course;
 import com.revature.services.CourseService;
 
-import jdk.internal.org.jline.utils.Log;
 
 @RestController
 @RequestMapping("/courses")
